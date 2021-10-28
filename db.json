@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Doctor Appointment",
+      "day": "Monday 1st Nov at 10:00 AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "UI team MeetUp",
+      "day": "Friday 29th at 4 PM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "OffShore Manager meetup",
+      "day": "2nd Nov at 11 AM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
